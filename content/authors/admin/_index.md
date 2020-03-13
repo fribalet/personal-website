@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: François Ribalet
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Oceanographer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Washington
+  url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a biological oceanographer working as a senior research scientist at the School of Oceanography at the Univeristy of Washington. I am investigating how unicellular plankton respond to environmental perturbations and ultimately how they adapt to warming oceans. I apply population models to plankton size distribution measured by flow cytometry to estimate rates of cell growth and mortality, two key traits that govern how these organisms interact with their environment.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- phytoplankton
+- flow cytometry
+- ecological modelling
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biological Sciences
+    institution: Open University, London UK
+    year: 2007
+  - course: MSc in Biological Oceanology and Marine Environment 
+    institution: University Pierre & Marie Curie, Paris FR
+    year: 2003
+  - course: BSc in Population Biology and Ecosystems
+    institution: University Pierre & Marie Curie, Paris FR
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:ribalet@uw.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=oiCmdqIAAAAJ&hl=en
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-7431-0234
+# - icon: mendeley
+#   icon_pack: fab
+#   link: https://www.mendeley.com/profiles/francois-ribalet/  
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/fribalet  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,15 +65,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ribalet@uw.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ I am a biological oceanographer working as a senior research scientist at the School of Oceanography at the Univeristy of Washington. I am investigating how unicellular plankton respond to environmental perturbations and ultimately how they adapt to warming oceans. I apply population models to plankton size distribution measured by flow cytometry to estimate rates of cell growth and mortality, two key traits that govern how these organisms interact with their environment.
