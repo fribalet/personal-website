@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Oceanographer
+role: Senior Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a biological oceanographer working as a senior research scientist at the School of Oceanography at the Univeristy of Washington. I am investigating how unicellular plankton respond to environmental perturbations and ultimately how they adapt to warming oceans. I apply population models to plankton size distribution measured by flow cytometry to estimate rates of cell growth and mortality, two key traits that govern how these organisms interact with their environment.
+bio: My research interests include phytoplankon ecology, oceanography and flow cytometry.
 
 interests:
-- phytoplankton
+- phytoplankton ecology
+- oceanography
 - flow cytometry
-- ecological modelling
 
 education:
   courses:
