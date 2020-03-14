@@ -2,7 +2,7 @@
 title: Popcycle
 date: "2014-12-01"
 ---
-[Popcycle](https://github.com/armbrustlab/popcycle) is an R package (available at[Github](https://github.com/armbrustlab/popcycle)) that offers a reproducible approach to process, calibrate and curate flow cytometry data collected by SeaFlow.<br/>
+[Popcycle](https://github.com/armbrustlab/popcycle) is an R package (available at[Github](https://github.com/armbrustlab/popcycle)) that offers a reproducible approach to process, calibrate and curate flow cytometry data collected by [SeaFlow](https://seaflow.netlify.com).<br/>
 The software package performs 3 key analyses:
 1. ```Gating```: Classification of phytoplankton cell populations using a mixture of manual gating and a semi-supervized clusterting algorithm.
 2. ```Light scatter conversion```: Convert light scattering of each particle to cell diameter ([fsc-size-calibration](https://github.com/armbrustlab/fsc-size-calibration)) and carbon content ([fsc-poc-calibration](https://github.com/armbrustlab/fsc-poc-calibration)).

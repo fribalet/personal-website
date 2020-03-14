@@ -2,13 +2,11 @@
 title: Computational Flow Cytometry Analysis of Marine Phytoplankton
 date: "2018-03-01"
 ---
-Since 2010, the shipboard underway cytometer [SeaFlow](https://doi.org/10.4319/lom.2011.9.466) has been operated for 14,000 hours across 140,000 km of ocean, collecting over 300,000 samples in surface waters. We have created ```popcycle```, an R package that uses reproducible analytical methods to uniformly process and curate SeaFlow data. The datasets consist of cell abundance, cell diameter and cellular carbon content of small phytoplankton (< 10 μm), which includes the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and <i>Crocosphaera</i>, and a mixture of unindentified protists.
+Since 2010, the shipboard underway cytometer [SeaFlow](https://seaflow.netlify.com) has been operated for 14,000 hours across 140,000 km of ocean, collecting over 300,000 samples in surface waters. We have created [reproducible analytical methods](https://github.com/topics/seaflow) to uniformly process and curate SeaFlow data. The datasets consist of cell abundance, cell diameter and cellular carbon content of small phytoplankton (< 10 μm), which includes the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and <i>Crocosphaera</i>, and a mixture of unindentified protists.
 
-* An example dataset representing the compilation of over 69,000 samples collected during 27 oceanographic cruises is available [here](http://doi.org/10.5281/zenodo.2678021) without restriction.
+* An example dataset representing the compilation of over 69,000 samples collected during 27 oceanographic cruises between 2010 and 2018 in the North Pacific Ocean is available [here](http://doi.org/10.5281/zenodo.2678021) without restriction. Data Description can be found in [Ribalet et al. 2019](https://doi.org/10.1038/s41597-019-0292-2).
 
-* Description of the SeaFlow data can be found in [Ribalet et al. 2019](https://doi.org/10.1038/s41597-019-0292-2).
-
-* List of available data can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VR2_VAulc6caxklUqOTOj_7EEnNJiFlHqaD1fC7Pc_zqw5i7wwcQUcDa8dtALZXoVHt2t0mdPS5/pubhtml).
+* List of all datasets avaialble can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VR2_VAulc6caxklUqOTOj_7EEnNJiFlHqaD1fC7Pc_zqw5i7wwcQUcDa8dtALZXoVHt2t0mdPS5/pubhtml).
 
 We are currently working on a new Bayesian formulation of the [size-structured matrix population model](https://github.com/fribalet/Bayesian-matrixmodel) to estimate hourly cell growth and cell mortality rates for <i>Prochlorococcus</i> and <i>Synechococcus</i> across all SeaFlow data.
 
