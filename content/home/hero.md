@@ -5,17 +5,23 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "<br/><br/><br/>"
+title = "<br/>"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# hero_media = ""
+# hero_media = "SeaFlowAnalysis-logo.png"
+
+#  [cta]
+#  url = "https://zenodo.org/search?page=1&size=20&q=seaflow"
+#  label = "visit SeaFlow website"
+#  icon_pack = "fas"
+#  icon = "angle-double-right"
 
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-
+ 
   # Background color.
   # color = "navy"
   
