@@ -61,7 +61,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "SeaFlowAnalysis-logo.png"  # Name of image in `static/img/`.
+  image = "SeaFlow-cruisetracks.jpeg"  # Name of image in `static/img/`.
   image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
