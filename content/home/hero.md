@@ -10,11 +10,13 @@ title = "<br/>"
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "SeaFlowAnalysis-logo.png"
 
-#  [cta]
-#  url = "https://zenodo.org/search?page=1&size=20&q=seaflow"
-#  label = "visit SeaFlow website"
-#  icon_pack = "fas"
-#  icon = "angle-double-right"
+[cta]
+  url = "https://seaflow.netlify.com/"
+  label = ""
+  icon_pack = "fas"
+  icon = "chevron-right"
+[cta_note]
+  label = "Visit the website"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -33,7 +35,7 @@ title = "<br/>"
   image = "SeaFlowAnalysis-logo.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_position = "left"  # Options include `left`, `center` (default), or `right`.
   image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
