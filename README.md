@@ -1,3 +1,3 @@
-# fribalet.github.com
+# francoisribalet.netflity.com
 
-This repository holds the site source for the [personal website](https://fribalet.github.io). It uses the [Academic](https://sourcethemes.com/academic) theme.
+This repository holds [Netlify](https://netlify.com) site source for my [personal website](https://francoisribalet.netflity.com). It uses the [Academic](https://sourcethemes.com/academic) theme.
