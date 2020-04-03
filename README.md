@@ -1,3 +1,3 @@
-# francoisribalet.netflity.com
+# fribalet.github.com
 
-This repository holds [Netlify](https://netlify.com) site source for the [SeaFlow website](https://francoisribalet.netflity.com). It uses the [Academic](https://sourcethemes.com/academic) theme.
+This repository holds the site source for the [personal website](https://fribalet.github.io). It uses the [Academic](https://sourcethemes.com/academic) theme.
