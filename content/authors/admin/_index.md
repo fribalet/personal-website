@@ -73,4 +73,4 @@ email: "ribalet@uw.edu"
 # - "Principal Investigators"
 # - Visitors
 ---
- I am a biological oceanographer working as a senior research scientist at the School of Oceanography at the Univeristy of Washington. My research focuses on understanding how unicellular plankton respond to environmental perturbations. I use a combination of observations from the shipboard flow cytometer [SeaFlow](https://seaflow.netlify.com/) and population models to estimate rates of cell growth and mortality, two key traits that govern how these organisms interact with their environment.
+I am a biological oceanographer working as a senior research scientist at the School of Oceanography at the Univeristy of Washington. I study how unicellular plankton respond to environmental perturbations. My research approach consists a combination of population models and observations from the shipboard flow cytometer [SeaFlow](https://seaflow.netlify.com/) to estimate growth and mortality rates, two key traits that govern how these organisms interact with their environment.
