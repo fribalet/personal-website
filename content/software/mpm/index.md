@@ -1,8 +1,7 @@
 ---
 title: Matrix Population Model
-date: "2019-01-01"
+date: "2021-01-01"
 ---
-A size-structured matrix population model to estimate rates of cell division, cell growth and cell mortality of cyanobacteria populations from SeaFlow data.<br/>
+A size-structured matrix population model to estimate rates of cell division, carbon fixation and carbon loss in phytoplankton measured by flow cytyometry.<br/>
 
-These estimates are independent of variations in cell abundance and can be used to study physiologically-driven changes in population dynamics.<br/>
-We are currently working on a new Bayesian formulation of the [model](https://github.com/fribalet/Bayesian-matrixmodel) to estimate hourly cell growth and cell mortality rates for <i>Prochlorococcus</i> and <i>Synechococcus</i> across all SeaFlow data. More details coming soon ...
+The rates of cell growth, division, and carbon loss of microbial populations in their natural habitat are key parameters for understanding how organisms interact with their environment and how they contribute to the carbon cycle.  However, the invasive nature of current analytical methods has hindered efforts to reliably quantify these parameters. Here we present a flexible Bayesian formulation of [size-structured matrix population model](https://github.com/fribalet/Bayesian-matrixmodel) for testing a set of underlying assumptions describing microbial population dynamics. We incorporate the model into a Bayesian framework that not only takes into account prior scientificknowledge but also generates biologically interpretable results. 
