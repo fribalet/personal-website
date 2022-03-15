@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Research Scientist
+role: Senior Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,11 @@ organizations:
   url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phytoplankon ecology, oceanography and flow cytometry.
+bio: My research interests include marine microbial ecology and flow cytometry.
 
 interests:
-- phytoplankton ecology
-- oceanography
-- flow cytometry
+- Microbial Ecology
+- Flow Cytometry
 
 education:
   courses:
@@ -31,10 +30,10 @@ education:
     institution: Open University, London UK
     year: 2007
   - course: MSc in Biological Oceanology and Marine Environment 
-    institution: University Pierre & Marie Curie, Paris FR
+    institution: Sorbonne University, Paris FR
     year: 2003
   - course: BSc in Population Biology and Ecosystems
-    institution: University Pierre & Marie Curie, Paris FR
+    institution: Sorbonne University, Paris FR
     year: 2001
 
 # Social/Academic Networking
@@ -69,8 +68,8 @@ email: "ribalet@uw.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - "Principal Investigators"
+user_groups:
+- "Principal Investigators"
 # - Visitors
 ---
 I am a biological oceanographer working as a research scientist at the University of Washington. I study how unicellular plankton respond to environmental perturbations and ultimately how they are adapting to changing oceans. My research approach combines mechanistic models with observations from the shipboard flow cytometer [SeaFlow](https://seaflow.netlify.com/) to understand how these organisms interact with their environment.
