@@ -18,21 +18,12 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Principal Research Scientist"
-  company = "School of Oceanography, University of Washington"
-  company_url = "https://www.ocean.washington.edu"
-  location = "Seattle, USA"
-  date_start = "2020-11-01"
-  date_end = ""
-  description = ""
-
-[[experience]]
   title = "Senior Research Scientist"
   company = "School of Oceanography, University of Washington"
   company_url = "https://www.ocean.washington.edu"
   location = "Seattle, USA"
   date_start = "2015-01-01"
-  date_end = "2020-11-01"
+  date_end = ""
   description = ""
 
 [[experience]]

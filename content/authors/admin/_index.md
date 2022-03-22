@@ -23,6 +23,7 @@ bio: My research interests include marine microbial ecology and flow cytometry.
 interests:
 - Microbial Ecology
 - Flow Cytometry
+- Population Modeling
 
 education:
   courses:
