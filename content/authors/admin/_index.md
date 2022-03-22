@@ -73,4 +73,4 @@ user_groups:
 - "Principal Investigators"
 # - Visitors
 ---
-I am a biological oceanographer working as a research scientist at the University of Washington. I study how unicellular plankton respond to environmental perturbations and ultimately how they are adapting to changing oceans. My research approach combines mechanistic models with observations from the shipboard flow cytometer [SeaFlow](https://seaflow.netlify.com/) to understand how these organisms interact with their environment.
+I am a biological oceanographer working as a research scientist at the University of Washington. I study how microbial communities respond to environmental perturbations and ultimately how they will respond to future ocean conditions. My research approach uses [flow cytometry](https://seaflow.netlify.com/) observations collected from research vessels across ocean basins to build population models that predict cell, population and ecosystem interactions.
