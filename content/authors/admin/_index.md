@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Scientist
+role: Principal Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include marine microbial ecology and flow cytometry.
+bio: My research interests include microbial ecology and flow cytometry.
 
 interests:
 - Microbial Ecology
@@ -73,4 +73,4 @@ user_groups:
 - "Principal Investigators"
 # - Visitors
 ---
-I am a biological oceanographer working as a research scientist at the University of Washington. I study how microbial communities respond to environmental perturbations and ultimately how they will respond to future ocean conditions. My research approach uses [flow cytometry](https://seaflow.netlify.com/) observations collected from research vessels across ocean basins to build population models that predict cell, population and ecosystem interactions.
+I am a biological oceanographer working as a research scientist at the University of Washington. I study how microbial communities respond to environmental perturbations and ultimately how they will respond to future ocean conditions. I develop population models guided by laboratory, field and satellite observations to predict cell, population and ecosystem interactions.
